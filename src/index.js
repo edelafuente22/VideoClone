@@ -17,7 +17,7 @@ class App extends Component {
             selectedVideo: null
         };
 
-        this.videoSearch('los angeles kings');
+        this.videoSearch('');
     }
 
     videoSearch(term) {

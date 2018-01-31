@@ -18,6 +18,10 @@
     border-radius: 4px;
 }
 
+.video-detail .details .video-title {
+    font-weight: bold;
+}
+
 .list-group-item {
     cursor: pointer;
 }
